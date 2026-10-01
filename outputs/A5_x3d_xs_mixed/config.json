@@ -1,0 +1,25 @@
+{
+  "model": "x3d_xs",
+  "frames": 4,
+  "epochs": 2,
+  "batch_size": 4,
+  "lr": 0.0002,
+  "seed": 42,
+  "workers": 0,
+  "freeze": false,
+  "weights": "data/models/x3d/X3D_XS.pyth",
+  "init_from": "outputs/E4_x3d_xs_4f/checkpoint.pt",
+  "train_manifest": "data/splits/mixed_train.csv",
+  "val_manifest": "data/splits/mixed_val.csv",
+  "test_manifest": "data/splits/test.csv",
+  "output": "outputs/A5_x3d_xs_mixed",
+  "dataset": "custom manifests",
+  "split_sha256": {
+    "train": "2b0398392ca7b6c45d2d375ad0d1cbd7365f9322593bc9b33655039d3904533a",
+    "val": "061314f61a0d0bb29bc8d30424770c9119f17271cc4dfe8d3fd7517f81877e90",
+    "test": "0539be657a6bec15fd514065f5c152ec9e104058f1aa80a515a8a4c5540a34b9"
+  },
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "6dafc96144c88f800b190d2cb179ff69b8fd48c40afd4deca6c1e61f76fdfe86",
+  "init_checkpoint_sha256": "85ee1cda04c9fe98f3a07cbd1ec4831f92341a87db8c7e60cf4958b385915744"
+}

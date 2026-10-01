@@ -1,0 +1,46 @@
+{
+  "root": "sports_training_bundle",
+  "split_dir": "data/splits/vk_owner_holdout",
+  "corrections": "data/metadata/vk_visual_corrections.json",
+  "model": "dinov2_small",
+  "weights": "data/models/dinov2-small",
+  "output": "outputs/vk_owner_dinov2_partial_4f",
+  "epochs": 5,
+  "batch_size": 2,
+  "frames": 4,
+  "freeze": true,
+  "lr": 2e-06,
+  "head_lr": 5e-05,
+  "init_from": "outputs/vk_owner_dinov2_4f/checkpoint.pt",
+  "unfreeze_last_blocks": 2,
+  "workers": 2,
+  "max_train": 0,
+  "seed": 42,
+  "device": "cuda",
+  "audit": {
+    "sha256": {
+      "train": "78ec6c74611b1955ad1a95648637412335dc1425b93894611a427e36cd94604d",
+      "validation": "9dc038b682616b63113df1bad0429d3fc9383d66c0740423b0736c11df43c43c",
+      "test": "5a88353b5fe812818260c65fa84940d7113e762607cd4108360f4796c3d9f9e4"
+    },
+    "clips": {
+      "train": 766,
+      "validation": 155,
+      "test": 165
+    },
+    "groups": {
+      "train": 277,
+      "validation": 58,
+      "test": 61
+    },
+    "correction_sha256": "884190d262151b2a833e770e726f377afe11fdc6b9e508b51b91e320347a3757",
+    "corrected_clips": {
+      "train": 25,
+      "validation": 0,
+      "test": 0
+    }
+  },
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "ae1e99fcefd534ed978cdeb8326f08030c96e28b7a81ffcbc98a857c84d14be1",
+  "init_checkpoint_sha256": "c832295e0029644d35bb1a9afe2b987c1087b99d4eb331175932e69a05e325aa"
+}

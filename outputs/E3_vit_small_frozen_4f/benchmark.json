@@ -1,0 +1,12 @@
+{
+  "model": "vit_small_patch32_224",
+  "frames": 4,
+  "resolution": 224,
+  "batch_size": 1,
+  "precision": "AMP fp16",
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "elapsed_sec": 4.257938552000269,
+  "videos_per_sec": 14.326181379800277,
+  "ms_per_video": 69.8022713442667,
+  "peak_inference_vram_mb": 145.8154296875
+}

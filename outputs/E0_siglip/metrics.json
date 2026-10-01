@@ -1,0 +1,251 @@
+{
+  "1": {
+    "sport_label": {
+      "n": 61,
+      "accuracy": 0.8360655737704918,
+      "macro_f1": 0.8183170995670995,
+      "weighted_f1": 0.8226616279894968,
+      "per_class": {
+        "basketball": {
+          "precision": 0.7142857142857143,
+          "recall": 1.0,
+          "f1-score": 0.8333333333333334,
+          "support": 10.0
+        },
+        "football": {
+          "precision": 1.0,
+          "recall": 0.8666666666666667,
+          "f1-score": 0.9285714285714286,
+          "support": 15.0
+        },
+        "tennis": {
+          "precision": 0.7777777777777778,
+          "recall": 1.0,
+          "f1-score": 0.875,
+          "support": 21.0
+        },
+        "volleyball": {
+          "precision": 1.0,
+          "recall": 0.4666666666666667,
+          "f1-score": 0.6363636363636364,
+          "support": 15.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          10,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          13,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          21,
+          0
+        ],
+        [
+          4,
+          0,
+          4,
+          7
+        ]
+      ]
+    },
+    "gender_category": {
+      "n": 0,
+      "status": "not evaluated"
+    },
+    "age_category": {
+      "n": 0,
+      "status": "not evaluated"
+    },
+    "runtime": {
+      "elapsed_sec": 2.9249961010000334,
+      "ms_per_video": 47.95075575409891,
+      "videos_per_sec": 20.854728653875668,
+      "peak_inference_vram_mb": 998.38134765625
+    },
+    "efficiency": {
+      "parameters": 203155970,
+      "checkpoint_mb": 775.0247192382812,
+      "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "frames": 1,
+      "resolution": 224,
+      "batch_size": 1,
+      "precision": "AMP fp16"
+    }
+  },
+  "4": {
+    "sport_label": {
+      "n": 61,
+      "accuracy": 0.8360655737704918,
+      "macro_f1": 0.8020833333333334,
+      "weighted_f1": 0.8066939890710383,
+      "per_class": {
+        "basketball": {
+          "precision": 0.7142857142857143,
+          "recall": 1.0,
+          "f1-score": 0.8333333333333334,
+          "support": 10.0
+        },
+        "football": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 15.0
+        },
+        "tennis": {
+          "precision": 0.7777777777777778,
+          "recall": 1.0,
+          "f1-score": 0.875,
+          "support": 21.0
+        },
+        "volleyball": {
+          "precision": 1.0,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.5,
+          "support": 15.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          10,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          15,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          21,
+          0
+        ],
+        [
+          4,
+          0,
+          6,
+          5
+        ]
+      ]
+    },
+    "gender_category": {
+      "n": 0,
+      "status": "not evaluated"
+    },
+    "age_category": {
+      "n": 0,
+      "status": "not evaluated"
+    },
+    "runtime": {
+      "elapsed_sec": 5.0600543380001,
+      "ms_per_video": 82.95171045901803,
+      "videos_per_sec": 12.055206510708976,
+      "peak_inference_vram_mb": 1004.47314453125
+    },
+    "efficiency": {
+      "parameters": 203155970,
+      "checkpoint_mb": 775.0247192382812,
+      "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "frames": 4,
+      "resolution": 224,
+      "batch_size": 1,
+      "precision": "AMP fp16"
+    }
+  },
+  "8": {
+    "sport_label": {
+      "n": 61,
+      "accuracy": 0.8852459016393442,
+      "macro_f1": 0.8625494071146246,
+      "weighted_f1": 0.876725199248364,
+      "per_class": {
+        "basketball": {
+          "precision": 0.6666666666666666,
+          "recall": 1.0,
+          "f1-score": 0.8,
+          "support": 10.0
+        },
+        "football": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 15.0
+        },
+        "tennis": {
+          "precision": 0.9130434782608695,
+          "recall": 1.0,
+          "f1-score": 0.9545454545454546,
+          "support": 21.0
+        },
+        "volleyball": {
+          "precision": 1.0,
+          "recall": 0.5333333333333333,
+          "f1-score": 0.6956521739130435,
+          "support": 15.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          10,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          15,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          21,
+          0
+        ],
+        [
+          5,
+          0,
+          2,
+          8
+        ]
+      ]
+    },
+    "gender_category": {
+      "n": 0,
+      "status": "not evaluated"
+    },
+    "age_category": {
+      "n": 0,
+      "status": "not evaluated"
+    },
+    "runtime": {
+      "elapsed_sec": 8.47239374999981,
+      "ms_per_video": 138.891700819669,
+      "videos_per_sec": 7.199854232459553,
+      "peak_inference_vram_mb": 1021.767578125
+    },
+    "efficiency": {
+      "parameters": 203155970,
+      "checkpoint_mb": 775.0247192382812,
+      "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "frames": 8,
+      "resolution": 224,
+      "batch_size": 1,
+      "precision": "AMP fp16"
+    }
+  }
+}

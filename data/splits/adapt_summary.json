@@ -1,0 +1,19 @@
+{
+  "seed": 42,
+  "train_clips": 39,
+  "val_clips": 10,
+  "train_sports": {
+    "tennis": 15,
+    "basketball": 8,
+    "football": 8,
+    "volleyball": 8
+  },
+  "val_sports": {
+    "tennis": 4,
+    "basketball": 2,
+    "volleyball": 2,
+    "football": 2
+  },
+  "external_test_groups": 30,
+  "group_intersection": 0
+}

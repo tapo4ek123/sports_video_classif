@@ -1,0 +1,22 @@
+{
+  "model": "efficientnet_b0",
+  "frames": 8,
+  "epochs": 2,
+  "batch_size": 2,
+  "lr": 0.0002,
+  "seed": 42,
+  "workers": 0,
+  "freeze": false,
+  "weights": "data/models/efficientnet_b0/efficientnet_b0_rwightman-7f5810bc.pth",
+  "output": "outputs/E2_efficientnet_b0_8f",
+  "dataset": "UCF101 mirror first shard",
+  "dataset_revision": "057753e5d0709d3f5b8104a803b91a420a069103",
+  "manifest_sha256": "0b45a02aeb54f6ad24d1dbdda600385f937f1ea022bed53387c4f9fa7524391d",
+  "split_sha256": {
+    "train": "f91636cdda3cac0320ad7004e53b217e30ddd6916197456ab12eff9afef2f4ec",
+    "val": "dbdcceec7dd3b49d594b8e5f12e216733978e2f058247074c4fbd97b213fc150",
+    "test": "0539be657a6bec15fd514065f5c152ec9e104058f1aa80a515a8a4c5540a34b9"
+  },
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "7f5810bc96def8f7552d5b7e68d53c4786f81167d28291b21c0d90e1fca14934"
+}

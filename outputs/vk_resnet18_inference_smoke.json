@@ -1,0 +1,37 @@
+{
+  "video": "data/processed/wikimedia_u17_sample/nafta_bistrica_u17_60s_5s.mp4",
+  "checkpoint_dir": "outputs/vk_owner_resnet18_1f",
+  "video_duration_s": 5.0,
+  "windows": 1,
+  "window_starts_s": [
+    0.0
+  ],
+  "elapsed_s": 0.3048966600035783,
+  "predictions": {
+    "sport": {
+      "label": "football",
+      "probabilities": {
+        "basketball": 0.0006657700287178159,
+        "football": 0.9930750131607056,
+        "handball": 0.0009686896810308099,
+        "table_tennis": 0.0031026341021060944,
+        "tennis": 0.0009020367870107293,
+        "volleyball": 0.0012858143309131265
+      }
+    },
+    "gender": {
+      "label": "men",
+      "probabilities": {
+        "men": 0.986828088760376,
+        "women": 0.013171950355172157
+      }
+    },
+    "age": {
+      "label": "under_18",
+      "probabilities": {
+        "under_18": 0.9924813508987427,
+        "adult_18_plus": 0.007518718484789133
+      }
+    }
+  }
+}

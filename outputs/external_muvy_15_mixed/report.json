@@ -1,0 +1,102 @@
+{
+  "manifest": "data/metadata/muvy_sample.csv",
+  "n_videos": 15,
+  "n_source_groups": 15,
+  "sports": {
+    "football": 8,
+    "basketball": 5,
+    "tennis": 2
+  },
+  "models": {
+    "dinov2_small": {
+      "sport": {
+        "n": 15,
+        "accuracy": 0.8666666666666667,
+        "macro_f1_observed_sports": 0.6296296296296297,
+        "confusion_matrix_all_four": [
+          [
+            5,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            8,
+            0,
+            0
+          ],
+          [
+            0,
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 3.9339709949999815,
+        "videos_per_sec": 3.812941178027183,
+        "ms_per_video": 262.2647329999988,
+        "peak_inference_vram_mb": 154.59716796875
+      }
+    },
+    "r3d_18": {
+      "sport": {
+        "n": 15,
+        "accuracy": 0.7333333333333333,
+        "macro_f1_observed_sports": 0.5708061002178649,
+        "confusion_matrix_all_four": [
+          [
+            4,
+            0,
+            0,
+            1
+          ],
+          [
+            0,
+            7,
+            0,
+            1
+          ],
+          [
+            0,
+            2,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 14.617493703997752,
+        "videos_per_sec": 1.0261677072518687,
+        "ms_per_video": 974.4995802665168,
+        "peak_inference_vram_mb": 222.52099609375
+      }
+    }
+  }
+}

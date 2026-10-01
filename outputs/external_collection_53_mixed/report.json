@@ -1,0 +1,148 @@
+{
+  "manifest": "data/metadata/collection_sport_eval.csv",
+  "n_videos": 53,
+  "n_source_groups": 52,
+  "sports": {
+    "basketball": 21,
+    "football": 17,
+    "volleyball": 8,
+    "tennis": 7
+  },
+  "models": {
+    "dinov2_small": {
+      "sport": {
+        "n": 53,
+        "accuracy": 0.7358490566037735,
+        "macro_f1_observed_sports": 0.7594830659536542,
+        "confusion_matrix_all_four": [
+          [
+            10,
+            0,
+            0,
+            11
+          ],
+          [
+            1,
+            16,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            7,
+            0
+          ],
+          [
+            2,
+            0,
+            0,
+            6
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 13.546034324011998,
+        "videos_per_sec": 3.9125842096864494,
+        "ms_per_video": 255.58555328324525,
+        "peak_inference_vram_mb": 154.59716796875
+      }
+    },
+    "x3d_xs": {
+      "sport": {
+        "n": 53,
+        "accuracy": 0.5849056603773585,
+        "macro_f1_observed_sports": 0.593010752688172,
+        "confusion_matrix_all_four": [
+          [
+            7,
+            0,
+            0,
+            14
+          ],
+          [
+            0,
+            13,
+            3,
+            1
+          ],
+          [
+            0,
+            1,
+            5,
+            1
+          ],
+          [
+            2,
+            0,
+            0,
+            6
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 11.657574851997197,
+        "videos_per_sec": 4.546400145217163,
+        "ms_per_video": 219.95424249051314,
+        "peak_inference_vram_mb": 23.951171875
+      }
+    },
+    "r3d_18": {
+      "sport": {
+        "n": 53,
+        "accuracy": 0.5471698113207547,
+        "macro_f1_observed_sports": 0.5145622895622896,
+        "confusion_matrix_all_four": [
+          [
+            9,
+            0,
+            0,
+            12
+          ],
+          [
+            1,
+            13,
+            1,
+            2
+          ],
+          [
+            2,
+            3,
+            2,
+            0
+          ],
+          [
+            3,
+            0,
+            0,
+            5
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 34.65110094798729,
+        "videos_per_sec": 1.5295329311341408,
+        "ms_per_video": 653.7943575091941,
+        "peak_inference_vram_mb": 222.52099609375
+      }
+    }
+  }
+}

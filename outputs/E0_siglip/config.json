@@ -1,0 +1,45 @@
+{
+  "model": "data/models/siglip-base-patch16-224",
+  "split": "test",
+  "max_videos": null,
+  "output": "outputs/E0_siglip",
+  "dataset": "UCF101 mirror first shard",
+  "dataset_revision": "057753e5d0709d3f5b8104a803b91a420a069103",
+  "manifest_sha256": "0b45a02aeb54f6ad24d1dbdda600385f937f1ea022bed53387c4f9fa7524391d",
+  "split_sha256": {
+    "train": "f91636cdda3cac0320ad7004e53b217e30ddd6916197456ab12eff9afef2f4ec",
+    "val": "dbdcceec7dd3b49d594b8e5f12e216733978e2f058247074c4fbd97b213fc150",
+    "test": "0539be657a6bec15fd514065f5c152ec9e104058f1aa80a515a8a4c5540a34b9"
+  },
+  "prompts": {
+    "basketball": [
+      "a photo of a basketball game",
+      "a frame from a basketball match",
+      "people playing basketball"
+    ],
+    "football": [
+      "a photo of a soccer game",
+      "a frame from a football match",
+      "people playing soccer"
+    ],
+    "tennis": [
+      "a photo of a tennis game",
+      "a frame from a tennis match",
+      "people playing tennis"
+    ],
+    "volleyball": [
+      "a photo of a volleyball game",
+      "a frame from a volleyball match",
+      "people playing volleyball"
+    ]
+  },
+  "classes": [
+    "basketball",
+    "football",
+    "tennis",
+    "volleyball"
+  ],
+  "precision": "AMP fp16",
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "2c63cb7d1f2e95ba501893cbb8faeb4ea9a3af295498d35097126228659c2af8"
+}

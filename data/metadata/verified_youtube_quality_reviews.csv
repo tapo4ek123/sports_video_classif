@@ -1,0 +1,35 @@
+clip_id,decision,reason
+YT:m5U9LfZJGls:900-905,reject,referee close-up
+YT:wpj4eLif-zk:900-905,accept,game court visible
+YT:MtEYmSzFIGw:900-905,accept,game court visible
+YT:J3uQkneq9Js:900-905,accept,game court visible
+YT:VVm2t651-C0:900-905,accept,game court visible
+YT:JMJHVtDjh_s:1200-1205,accept,serve and competition court visible
+YT:5iEYoBLKoOQ:1200-1205,accept,game court visible
+YT:D6dG7uzudPQ:1200-1205,reject,between points close-up
+YT:H65umG7yZ-A:1200-1205,reject,advertisement
+YT:62le-BrkA4s:1200-1205,reject,prematch graphic
+YT:YTscoWhNgT4:1800-1805,reject,goalkeeper waiting
+YT:vBa4-Js5LhE:1800-1805,accept,game field visible
+YT:D6dG7uzudPQ:1500-1505,accept,game court visible
+YT:xufUADETuDM:1200-1205,reject,pregame team huddle
+YT:H65umG7yZ-A:2400-2405,accept,game court visible
+YT:62le-BrkA4s:2400-2405,reject,player close-up before serve
+YT:YTscoWhNgT4:1900-1905,reject,sideline close-up
+YT:FXuh-TY8T9Y:90-95,accept,tennis players visible
+YT:YLL_J58-Kl0:90-95,accept,tennis players visible
+YT:jBnueKAPUxg:90-95,reject,empty foreground court
+YT:4TXUXBimIW0:90-95,reject,spectator foreground
+YT:VwYpQakUWMc:90-95,accept,tennis rally visible
+YT:45PS7NFlwXY:90-95,accept,tennis player visible
+YT:bisRHliEluM:90-95,accept,tennis players visible at distance
+YT:Rrx3S7Gt8tc:90-95,accept,tennis player visible
+YT:k0KNa1TghI8:90-95,reject,empty foreground court
+YT:m5U9LfZJGls:1100-1105,accept,game court visible
+YT:xufUADETuDM:1800-1805,accept,game court visible
+YT:62le-BrkA4s:2700-2705,reject,spectators close-up
+YT:YTscoWhNgT4:2300-2305,accept,game field visible
+YT:jBnueKAPUxg:140-145,accept,tennis players visible
+YT:4TXUXBimIW0:140-145,accept,tennis player visible
+YT:k0KNa1TghI8:140-145,accept,tennis player visible
+YT:62le-BrkA4s:3200-3205,reject,player close-up between points

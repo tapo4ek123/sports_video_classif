@@ -1,0 +1,14 @@
+{
+  "clips": 60,
+  "batch_size": 1,
+  "frames": 4,
+  "resolution": 224,
+  "model_ms_mean": 22.52081266778987,
+  "model_ms_median": 22.461314001702704,
+  "model_ms_p90": 31.485916988458484,
+  "end_to_end_ms_per_clip": 23.127513249831583,
+  "end_to_end_clips_per_sec": 43.23854403184839,
+  "peak_inference_vram_mb": 110.7880859375,
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "precision": "AMP fp16"
+}

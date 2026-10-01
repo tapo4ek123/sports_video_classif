@@ -1,0 +1,102 @@
+{
+  "manifest": "data/metadata/multisports_sample_9.csv",
+  "n_videos": 9,
+  "n_source_groups": 9,
+  "sports": {
+    "basketball": 3,
+    "football": 3,
+    "volleyball": 3
+  },
+  "models": {
+    "dinov2_small": {
+      "sport": {
+        "n": 9,
+        "accuracy": 0.6666666666666666,
+        "macro_f1_observed_sports": 0.5555555555555555,
+        "confusion_matrix_all_four": [
+          [
+            0,
+            0,
+            0,
+            3
+          ],
+          [
+            0,
+            3,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            3
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 1.4132403329931549,
+        "videos_per_sec": 6.36834357885793,
+        "ms_per_video": 157.0267036659061,
+        "peak_inference_vram_mb": 154.59716796875
+      }
+    },
+    "r3d_18": {
+      "sport": {
+        "n": 9,
+        "accuracy": 0.6666666666666666,
+        "macro_f1_observed_sports": 0.5555555555555555,
+        "confusion_matrix_all_four": [
+          [
+            0,
+            0,
+            0,
+            3
+          ],
+          [
+            0,
+            3,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            3
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 3.592694427999959,
+        "videos_per_sec": 2.5050836302296577,
+        "ms_per_video": 399.1882697777732,
+        "peak_inference_vram_mb": 222.52099609375
+      }
+    }
+  }
+}

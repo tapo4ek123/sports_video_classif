@@ -1,0 +1,22 @@
+{
+  "model": "dinov2_small",
+  "frames": 4,
+  "epochs": 4,
+  "batch_size": 8,
+  "lr": 0.001,
+  "seed": 42,
+  "workers": 0,
+  "freeze": true,
+  "weights": "data/models/dinov2-small",
+  "output": "outputs/E3_dinov2_small_frozen_4f",
+  "dataset": "UCF101 mirror first shard",
+  "dataset_revision": "057753e5d0709d3f5b8104a803b91a420a069103",
+  "manifest_sha256": "0b45a02aeb54f6ad24d1dbdda600385f937f1ea022bed53387c4f9fa7524391d",
+  "split_sha256": {
+    "train": "f91636cdda3cac0320ad7004e53b217e30ddd6916197456ab12eff9afef2f4ec",
+    "val": "dbdcceec7dd3b49d594b8e5f12e216733978e2f058247074c4fbd97b213fc150",
+    "test": "0539be657a6bec15fd514065f5c152ec9e104058f1aa80a515a8a4c5540a34b9"
+  },
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "ae1e99fcefd534ed978cdeb8326f08030c96e28b7a81ffcbc98a857c84d14be1"
+}

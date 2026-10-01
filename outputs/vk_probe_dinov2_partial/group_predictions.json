@@ -1,0 +1,1074 @@
+[
+  {
+    "source_group_id": "85838974db65276b4303",
+    "n_clips": 2,
+    "sport": {
+      "true": "volleyball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "8b678947aff1d579cc9c",
+    "n_clips": 2,
+    "sport": {
+      "true": "tennis",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "99a903d5733f34e34be8",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "b76832375e37a0a7c8f6",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "3b19f51bc9ec640b276a",
+    "n_clips": 3,
+    "sport": {
+      "true": "handball",
+      "pred": "handball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "be454ec72981d2ed9b6a",
+    "n_clips": 3,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "c3bc5ff103ed7703bec5",
+    "n_clips": 2,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "48e33964a8089109550f",
+    "n_clips": 3,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "60596b2531e79c0cd340",
+    "n_clips": 2,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "2d263598babed5587935",
+    "n_clips": 3,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "d550f1ec54349f5cbcb7",
+    "n_clips": 2,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "d04b803193c9c7a3ff6e",
+    "n_clips": 2,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "00f1931ff4c7037d421b",
+    "n_clips": 3,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "e8c1658f271431864602",
+    "n_clips": 3,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "dd721afc994eb79c50cf",
+    "n_clips": 3,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "b46ed41a5e8e9ca3b281",
+    "n_clips": 2,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "6770e40f176c5b76725c",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "63124cfdd972e8323657",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "8e8071ae5173d8171d4e",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "f3fafd79d5134add27af",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "deb942111f3296d464f1",
+    "n_clips": 2,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "29863f8a3ccd85e6031d",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "5189b251fe9a5e2c270b",
+    "n_clips": 3,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "d1af8dfe31d6dbe74236",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "d07eb38c7403a3857338",
+    "n_clips": 3,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "c4568ca766c1ee7404d7",
+    "n_clips": 3,
+    "sport": {
+      "true": "handball",
+      "pred": "handball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "66cecf97c77a43d1468b",
+    "n_clips": 3,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "d97c7f9c6450a285bdd1",
+    "n_clips": 3,
+    "sport": {
+      "true": "handball",
+      "pred": "handball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "f407d15c15f4c0aa2c1b",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "9bbbacc09f9baebf0429",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "4d6ce3a19e40a08fb511",
+    "n_clips": 2,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "428b2c35eaf63022e529",
+    "n_clips": 2,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "aca38d82419196b1dc8f",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "13f6e3f6620b566953a8",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "a8e2bf3d63da43b3dcd2",
+    "n_clips": 3,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "6c4fdd9c058b0c580d91",
+    "n_clips": 2,
+    "sport": {
+      "true": "handball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "874565ddd64e2def3ea0",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "4675e094a88234472596",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "3d4ca409ce85e3b5f5ea",
+    "n_clips": 3,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "0936aa2bc8f62c28086b",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "8a0e965cc4d3e48689e1",
+    "n_clips": 3,
+    "sport": {
+      "true": "handball",
+      "pred": "handball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "55cde34d081978b18821",
+    "n_clips": 2,
+    "sport": {
+      "true": "handball",
+      "pred": "handball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "80fafcb45044d722b871",
+    "n_clips": 3,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "65f3b909e7a1edc689d2",
+    "n_clips": 2,
+    "sport": {
+      "true": "tennis",
+      "pred": "tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "1f30d8c92970ef15eafe",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "755ac48ff50218bff8b6",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "bffd8f0264a780120841",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "46e05e789994484ad7c4",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "f5a9ed1a0536ec79f71c",
+    "n_clips": 2,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "0a03e12cd9023d8639d5",
+    "n_clips": 2,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "19db66380137339366b7",
+    "n_clips": 3,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "885a3274fe74e2e57d2d",
+    "n_clips": 3,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "f995d3f9a085175a27dd",
+    "n_clips": 6,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "f906bb67a94187e8a0ec",
+    "n_clips": 3,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "0efc6fcc37b8c35d4030",
+    "n_clips": 2,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "b2665c2c61e8b3ad947a",
+    "n_clips": 2,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "fbdf3aa1639b3dda59a1",
+    "n_clips": 3,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "fd4ad9a748ffba625e47",
+    "n_clips": 3,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "e68a096c20584f087b22",
+    "n_clips": 3,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "adult_18_plus"
+    }
+  },
+  {
+    "source_group_id": "fd152fe3482329076ab7",
+    "n_clips": 3,
+    "sport": {
+      "true": "basketball",
+      "pred": "basketball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "f776b97f89c0b32441eb",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "46370bae094fd32ca7f6",
+    "n_clips": 3,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "women",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "a35896e8d81d8992611b",
+    "n_clips": 3,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "0480633d2a5e3191ae74",
+    "n_clips": 3,
+    "sport": {
+      "true": "volleyball",
+      "pred": "volleyball"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "8413af4931f141c09bc8",
+    "n_clips": 3,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "7a2b6969ae2020c27027",
+    "n_clips": 3,
+    "sport": {
+      "true": "table_tennis",
+      "pred": "table_tennis"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "adult_18_plus",
+      "pred": "under_18"
+    }
+  },
+  {
+    "source_group_id": "0e067374b803561ef1a8",
+    "n_clips": 3,
+    "sport": {
+      "true": "football",
+      "pred": "football"
+    },
+    "gender": {
+      "true": "men",
+      "pred": "men"
+    },
+    "age": {
+      "true": "under_18",
+      "pred": "under_18"
+    }
+  }
+]

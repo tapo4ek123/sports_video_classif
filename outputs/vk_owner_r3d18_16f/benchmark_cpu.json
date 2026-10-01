@@ -1,0 +1,16 @@
+{
+  "clips": 20,
+  "batch_size": 1,
+  "frames": 16,
+  "resolution": 112,
+  "model_ms_mean": 302.9063960566418,
+  "model_ms_median": 269.46857800066937,
+  "model_ms_p90": 386.8447030254174,
+  "end_to_end_ms_per_clip": 386.23248174990295,
+  "end_to_end_clips_per_sec": 2.5891141922328784,
+  "peak_inference_vram_mb": 0,
+  "peak_cpu_rss_mb": 941.95703125,
+  "hardware": "CPU",
+  "precision": "fp32",
+  "cpu_threads": 4
+}

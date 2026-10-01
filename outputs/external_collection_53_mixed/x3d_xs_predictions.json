@@ -1,0 +1,956 @@
+[
+  {
+    "clip_id": "IA:NMS_vs._Batavia_8th_Grade_Girls_Basketball_2017:300-305",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.76318359375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:btvnj-2_November_Men_s_Basketball_Northern_Essex_vs_Monroe:1793.54-1798.54",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.79736328125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:cormi-7th_8th_Grade_Boys_Basketball_-_Almont_Raiders_at_Richmond_Blue_Devils:300-305",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.78369140625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:hcectvky-8th_Grade_Boys_Basketball_Championship_-_North_Middle_School_vs_LaRue_Co_Middle_School:1626.73-1631.73",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9990234375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:mapsdwi-11-10-2016_8th_Grade_Girls_Basketball_vs_DC_Everest:300-305",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.998046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:mapsdwi-11-29-2016_8th_Grade_Boys_Basketball_vs_PJ_Jacobs_Junior_High:300-305",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.55859375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:orcavt-Montpelier_Youth_Sports_-_8th_Grade_Boys_Basketball_1_15_2025:300-305",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.9111328125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:pikevky-UPIKE_Women_s_Basketball_vs_Montreat_College_-_February_21_2026:2384.97-2389.97",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9814453125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:bull_vs_atlantaHawks_20240417:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9443359375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:chicagoSky_vs_seattleStorm_20240528:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.90869140625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:naperville_fem_youth_match_20240608:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.90673828125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:naperville_kids_match_20240608:130-135",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.9951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:naperville_little_kids_match_20240608:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.873046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:naperville_youth_match_20240608:30-35",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.66455078125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:naperville_youth_match_20240608:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.67919921875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:waukegan_field_house_kenosha_vs_bombSquad_20240615:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.85400390625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:waukegan_field_house_kids_bucks_vs_rockford_20240615:130-135",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.60107421875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:waukegan_field_house_stars_vs_bobcats_20240615:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.9453125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:waukegan_field_house_the217_20240615:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.9970703125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:waukegan_field_house_wave_vs_rebelz_20240615:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.9912109375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:waukegan_field_house_young_bucks_20240615:60-65",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.66357421875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:Graham_Middle_School_vs._Ega_8th_grade_Girls_Soccer_2.28.13:300-305",
+    "sport_label": {
+      "true": 1,
+      "pred": 2,
+      "confidence": 0.98828125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:Graham_vs_Hyde_8th_Grade_Girls_Soccer_3.5.13:300-305",
+    "sport_label": {
+      "true": 1,
+      "pred": 2,
+      "confidence": 0.751953125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:MV_Youth_Voices_-_Miller_Mustangs_vs_Graham_Bears_8th_Grade_Girls_Soccer_March_31st_2015:300-305",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.54052734375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:bcamma-BHS_Boys_Soccer_vs_Walpole_9_15_26_LIVE_at_4pm-optj1EAJpo0:300-305",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.67236328125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:bctvnh-BHS_Girls_Soccer_Bedford_vs_Goffstown_9_22_26:2049.48-2054.48",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.71533203125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:btvnj-Brookdale_Men_s_Soccer_vs_Camden_College_11_October_2025:1974.3-1979.3",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.94189453125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:btvnj-Brookdale_Women_s_Soccer_vs_Atlantic_Cape_11_October_2025:1828.7-1833.7",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:etvmn-Eagan_Boys_Soccer_vs._Prior_Lake-GX0KN5yrffI:300-305",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.703125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:gbect-10-16-25_Groton_Middle_School_Girls_Soccer_vs_Clark_Lane:1775.38-1780.38",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.7861328125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:gbect-10-7-24_Groton_Middle_School_Boys_Soccer_vs._Clark_Lane:300-305",
+    "sport_label": {
+      "true": 1,
+      "pred": 2,
+      "confidence": 0.64453125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:gbect-9-29-25_Groton_Middle_School_Boys_Soccer_vs._Norwich:300-305",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.8427734375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:ChicagoFireFC_vs_AtlantaUnited_20240727:60-65",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.96044921875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:chicagoFire_vs_charlotteFC_20240515:60-65",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9384765625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:naperville_kids_soccer_match_20240608:130-135",
+    "sport_label": {
+      "true": 1,
+      "pred": 3,
+      "confidence": 0.88525390625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "Commons:nafta_bistrica_u17:60-65",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.54248046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "Commons:File:U17 - 2. SKL - 22. krog - Nafta 1903 2-2 Hajdina - 1. pol\u010das - 1-2.webm:60-65",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9462890625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "Commons:File:U17 - 2. SKL - 24. krog - Nafta 1903 0-2 (0-1) \u0160ampion Celje - 1. pol\u010das.webm:60-65",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:bbrtvmev-BRHS_Girls_Tennis_02_-_Boothbay_v_Morse_court_2:300-305",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.94873046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:ctncrmn-Boys_Tennis_-_Spring_Lake_Park_at_Coon_Rapids_5.7.26_-_Scott_Storrick_s_last_home_match:2095.41-2100.41",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.94970703125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:ecatma-OA_Boys_Tennis_vs_Foxboro_1_Singles_5_11_26:1171.09-1176.09",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.8427734375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:ecatma-OA_Girls_Tennis_vs_Attleboro_2nd_Singles_4_08_26:300-305",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.978515625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:monica-puig-pur-vs-angelique-kerber-ger-womens-tennis-singles-final-rio-2016-olympics:300-305",
+    "sport_label": {
+      "true": 2,
+      "pred": 1,
+      "confidence": 0.98828125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:pegtvvt-Castleton_vs._NVU_Lyndon_-_Men_s_Tennis_-_March_19_2022:99.424-104.424",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.921875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:westcatma-WHS_Sports_-_Girls_Tennis_vs_Agawam_05_27_26:300-305",
+    "sport_label": {
+      "true": 2,
+      "pred": 3,
+      "confidence": 0.376708984375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:ELHS_Spartans_Boys_Volleyball_vs._Whittier_Tech_Vocational_5_29_26:1155.89-1160.89",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.9609375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:WCT15998:300-305",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.7734375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:WCT16071:300-305",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.6357421875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:btvnj-Brookdale_Men_s_Volleyball_vs_Nassau_Community_College_25_February_2026:2567.97-2572.97",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.93896484375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:ctv11co-CSU_Women_s_Volleyball_vs_Nevada:189.375-194.375",
+    "sport_label": {
+      "true": 3,
+      "pred": 0,
+      "confidence": 0.919921875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:hcectvky-8th_Grade_Girls_Volleyball_Championship_-_March_25_2021:300-305",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.5078125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:whctvct-Boys_Volleyball_Class_M_Quarterfinal_4_Hall_vs_5_Darien_-_June_4_2026:300-305",
+    "sport_label": {
+      "true": 3,
+      "pred": 0,
+      "confidence": 0.5625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVS:loyola_vs_mckendree_20240413:P21:cam_3:100-105",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.95654296875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  }
+]

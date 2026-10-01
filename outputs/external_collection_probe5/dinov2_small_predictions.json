@@ -1,0 +1,92 @@
+[
+  {
+    "clip_id": "IA:NMS_vs._Batavia_8th_Grade_Girls_Basketball_2017:300-305",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.71728515625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:btvnj-2_November_Men_s_Basketball_Northern_Essex_vs_Monroe:1793.54-1798.54",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.7880859375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:cormi-7th_8th_Grade_Boys_Basketball_-_Almont_Raiders_at_Richmond_Blue_Devils:300-305",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.7841796875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:hcectvky-8th_Grade_Boys_Basketball_Championship_-_North_Middle_School_vs_LaRue_Co_Middle_School:1626.73-1631.73",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.50341796875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "IA:mapsdwi-11-10-2016_8th_Grade_Girls_Basketball_vs_DC_Everest:300-305",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.8818359375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  }
+]

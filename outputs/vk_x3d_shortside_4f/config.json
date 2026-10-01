@@ -1,0 +1,46 @@
+{
+  "root": "sports_training_bundle",
+  "split_dir": "sports_training_bundle",
+  "corrections": "data/metadata/vk_visual_corrections.json",
+  "model": "x3d_xs",
+  "weights": "data/models/x3d/X3D_XS.pyth",
+  "output": "outputs/vk_x3d_shortside_4f",
+  "epochs": 6,
+  "batch_size": 4,
+  "frames": 4,
+  "x3d_preprocess": "shortside182",
+  "freeze": false,
+  "lr": 0.0002,
+  "head_lr": null,
+  "init_from": null,
+  "unfreeze_last_blocks": 0,
+  "workers": 2,
+  "max_train": 0,
+  "seed": 42,
+  "device": "cuda",
+  "audit": {
+    "sha256": {
+      "train": "9273fa2e89b71c48bf96a2f5cce3801170fea224b1d16d8dd5c3bb4d2426bd1b",
+      "validation": "ce2c44db52853c953a36b4fd20791f69e0cdda76080187bb71a8674b99de95bc",
+      "test": "5f56d4c3aa98213510989b72580e59508bd372de3b8eb707fd2cdc4193e9c4a7"
+    },
+    "clips": {
+      "train": 720,
+      "validation": 179,
+      "test": 187
+    },
+    "groups": {
+      "train": 263,
+      "validation": 66,
+      "test": 67
+    },
+    "correction_sha256": "884190d262151b2a833e770e726f377afe11fdc6b9e508b51b91e320347a3757",
+    "corrected_clips": {
+      "train": 17,
+      "validation": 3,
+      "test": 5
+    }
+  },
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "6dafc96144c88f800b190d2cb179ff69b8fd48c40afd4deca6c1e61f76fdfe86"
+}

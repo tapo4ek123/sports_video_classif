@@ -1,0 +1,74 @@
+{
+  "seed": 20260929,
+  "trials": 30000,
+  "score": 1.2229863772421825,
+  "split_by": "VK owner ID in video_id; original source_group_id preserved",
+  "splits": {
+    "train": {
+      "clips": 766,
+      "videos": 284,
+      "groups": 277,
+      "owners": 89,
+      "sport_groups": {
+        "basketball": 32,
+        "football": 78,
+        "tennis": 54,
+        "table_tennis": 39,
+        "handball": 26,
+        "volleyball": 48
+      },
+      "gender_groups": {
+        "men": 156,
+        "women": 121
+      },
+      "age_groups": {
+        "under_18": 145,
+        "adult_18_plus": 132
+      }
+    },
+    "validation": {
+      "clips": 155,
+      "videos": 59,
+      "groups": 58,
+      "owners": 26,
+      "sport_groups": {
+        "volleyball": 9,
+        "football": 15,
+        "table_tennis": 5,
+        "tennis": 10,
+        "basketball": 13,
+        "handball": 6
+      },
+      "gender_groups": {
+        "women": 32,
+        "men": 26
+      },
+      "age_groups": {
+        "under_18": 22,
+        "adult_18_plus": 36
+      }
+    },
+    "test": {
+      "clips": 165,
+      "videos": 61,
+      "groups": 61,
+      "owners": 23,
+      "sport_groups": {
+        "basketball": 13,
+        "volleyball": 9,
+        "tennis": 16,
+        "football": 7,
+        "handball": 8,
+        "table_tennis": 8
+      },
+      "gender_groups": {
+        "women": 28,
+        "men": 33
+      },
+      "age_groups": {
+        "under_18": 26,
+        "adult_18_plus": 35
+      }
+    }
+  }
+}

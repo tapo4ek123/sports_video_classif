@@ -1,0 +1,15 @@
+{
+  "reason": "Manual review of a representative frame for each video on 2026-09-29; all listed videos visibly show table tennis. The original sports_training_bundle remains unchanged.",
+  "sport_by_video_id": {
+    "-123743593_456246105": "table_tennis",
+    "-123743593_456246106": "table_tennis",
+    "-123743593_456246117": "table_tennis",
+    "-123743593_456246118": "table_tennis",
+    "-123743593_456246126": "table_tennis",
+    "-123743593_456246136": "table_tennis",
+    "-123743593_456246131": "table_tennis",
+    "-123743593_456246119": "table_tennis",
+    "-123743593_456246121": "table_tennis",
+    "-123743593_456246392": "table_tennis"
+  }
+}

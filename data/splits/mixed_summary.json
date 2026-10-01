@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "multi_repeat": 3,
+  "train_rows": 369,
+  "val_rows": 66,
+  "train_unique_clips": 321,
+  "train_source_groups": 84,
+  "val_source_groups": 19,
+  "train_by_source": {
+    "UCF101": 297,
+    "MultiSports": 72
+  },
+  "val_by_source": {
+    "UCF101": 60,
+    "MultiSports": 6
+  }
+}

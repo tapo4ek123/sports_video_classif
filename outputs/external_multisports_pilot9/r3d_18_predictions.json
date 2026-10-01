@@ -1,0 +1,164 @@
+[
+  {
+    "clip_id": "multisports:basketball:v_Fe3QevOQiO4_c010",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.99365234375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "multisports:basketball:v_4Aoy9-NoY2I_c604",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.9873046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "multisports:basketball:v_ZVp_qHKSrI0_c600",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.88037109375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "multisports:football:v_iSigwjYtXb4_c007",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.91357421875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "multisports:football:v_aKWm9uA2PmU_c032",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.99462890625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "multisports:football:v_MA-DMtdROGY_c609",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "multisports:volleyball:v_smg14di3TAo_c006",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.912109375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "multisports:volleyball:v_m1PENi1XfsU_c007",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.88720703125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "multisports:volleyball:v_-9DztB6pi0s_c009",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.9638671875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  }
+]

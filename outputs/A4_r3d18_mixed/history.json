@@ -1,0 +1,16 @@
+[
+  {
+    "epoch": 1,
+    "train_loss_sum": 34.16081613302231,
+    "val_sport_macro_f1": 0.9503284072249589,
+    "seconds": 95.62023142299586,
+    "peak_train_vram_mb": 879.341796875
+  },
+  {
+    "epoch": 2,
+    "train_loss_sum": 21.765299081802368,
+    "val_sport_macro_f1": 0.9515640273704791,
+    "seconds": 101.83384194200335,
+    "peak_train_vram_mb": 879.341796875
+  }
+]

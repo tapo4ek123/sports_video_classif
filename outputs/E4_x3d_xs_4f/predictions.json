@@ -1,0 +1,1100 @@
+[
+  {
+    "clip_id": "v_Basketball_g10_c01",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.68115234375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g10_c02",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.50537109375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g10_c03",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.91796875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g10_c04",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.82568359375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g10_c05",
+    "sport_label": {
+      "true": 0,
+      "pred": 3,
+      "confidence": 0.95068359375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g17_c01",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.87841796875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g24_c01",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.63818359375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g24_c02",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9873046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g24_c03",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.9423828125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_Basketball_g24_c04",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.962890625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g07_c01",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.94873046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g07_c02",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.95849609375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g07_c03",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.96630859375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g07_c04",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9091796875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g07_c05",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.96240234375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g07_c06",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9560546875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g10_c01",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.97314453125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g10_c02",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.98779296875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g10_c03",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.974609375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g10_c04",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.98388671875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g10_c05",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.97412109375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g25_c01",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9833984375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g25_c02",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.97021484375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g25_c03",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.97412109375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_SoccerPenalty_g25_c04",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.97509765625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g05_c01",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.544921875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g05_c02",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.66796875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g05_c03",
+    "sport_label": {
+      "true": 2,
+      "pred": 0,
+      "confidence": 0.619140625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g05_c04",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.85498046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g05_c05",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.8935546875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g05_c06",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.9033203125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g05_c07",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.59375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g13_c01",
+    "sport_label": {
+      "true": 2,
+      "pred": 0,
+      "confidence": 0.60595703125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g13_c02",
+    "sport_label": {
+      "true": 2,
+      "pred": 3,
+      "confidence": 0.346435546875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g13_c03",
+    "sport_label": {
+      "true": 2,
+      "pred": 0,
+      "confidence": 0.5263671875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g13_c04",
+    "sport_label": {
+      "true": 2,
+      "pred": 0,
+      "confidence": 0.6044921875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g13_c05",
+    "sport_label": {
+      "true": 2,
+      "pred": 0,
+      "confidence": 0.6474609375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g13_c06",
+    "sport_label": {
+      "true": 2,
+      "pred": 0,
+      "confidence": 0.654296875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g13_c07",
+    "sport_label": {
+      "true": 2,
+      "pred": 0,
+      "confidence": 0.69921875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g20_c01",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.9873046875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g24_c01",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.99267578125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g24_c02",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.65478515625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g24_c03",
+    "sport_label": {
+      "true": 2,
+      "pred": 0,
+      "confidence": 0.60205078125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g24_c04",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.64892578125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g24_c05",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.99658203125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_TennisSwing_g24_c06",
+    "sport_label": {
+      "true": 2,
+      "pred": 2,
+      "confidence": 0.9755859375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g03_c01",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.96826171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g03_c02",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.98681640625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g03_c03",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.9970703125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g03_c04",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.99609375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g07_c01",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.98681640625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g07_c02",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.97265625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g07_c03",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.9951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g07_c04",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.99755859375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g07_c05",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.974609375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g07_c06",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.994140625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g07_c07",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.99560546875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g22_c01",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.96923828125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g22_c02",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.9970703125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g22_c03",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.99658203125
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "v_VolleyballSpiking_g22_c04",
+    "sport_label": {
+      "true": 3,
+      "pred": 3,
+      "confidence": 0.98388671875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  }
+]

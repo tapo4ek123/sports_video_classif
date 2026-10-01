@@ -1,0 +1,42 @@
+{
+  "n_clips": 21,
+  "n_events": 21,
+  "n_source_videos": 21,
+  "min_events_per_cell": 5,
+  "coverage": {
+    "basketball/female/adult": 0,
+    "basketball/female/youth": 3,
+    "basketball/male/adult": 0,
+    "basketball/male/youth": 2,
+    "football/female/adult": 0,
+    "football/female/youth": 1,
+    "football/male/adult": 0,
+    "football/male/youth": 1,
+    "volleyball/female/adult": 0,
+    "volleyball/female/youth": 3,
+    "volleyball/male/adult": 0,
+    "volleyball/male/youth": 2,
+    "tennis/female/adult": 0,
+    "tennis/female/youth": 4,
+    "tennis/male/adult": 0,
+    "tennis/male/youth": 5
+  },
+  "additional_events_needed_by_cell": {
+    "basketball/female/adult": 5,
+    "basketball/female/youth": 2,
+    "basketball/male/adult": 5,
+    "basketball/male/youth": 3,
+    "football/female/adult": 5,
+    "football/female/youth": 4,
+    "football/male/adult": 5,
+    "football/male/youth": 4,
+    "volleyball/female/adult": 5,
+    "volleyball/female/youth": 2,
+    "volleyball/male/adult": 5,
+    "volleyball/male/youth": 3,
+    "tennis/female/adult": 5,
+    "tennis/female/youth": 1,
+    "tennis/male/adult": 5
+  },
+  "ready_for_three_head_split": false
+}

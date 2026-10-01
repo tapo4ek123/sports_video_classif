@@ -1,0 +1,317 @@
+{
+  "clip": {
+    "sport": {
+      "n": 179,
+      "accuracy": 0.2681564245810056,
+      "macro_f1": 0.1271991166728009,
+      "weighted_f1": 0.1464061372323648,
+      "per_class": {
+        "basketball": {
+          "precision": 0.18840579710144928,
+          "recall": 0.5,
+          "f1": 0.2736842105263158,
+          "support": 26
+        },
+        "football": {
+          "precision": 0.33653846153846156,
+          "recall": 0.8974358974358975,
+          "f1": 0.48951048951048953,
+          "support": 39
+        },
+        "handball": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 23
+        },
+        "table_tennis": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 15
+        },
+        "tennis": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 41
+        },
+        "volleyball": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 35
+        }
+      },
+      "confusion_matrix": [
+        [
+          13,
+          13,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          35,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          7,
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          5,
+          8,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          15,
+          23,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          25,
+          9,
+          1,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "gender": {
+      "n": 179,
+      "accuracy": 0.5251396648044693,
+      "macro_f1": 0.3443223443223443,
+      "weighted_f1": 0.3616346409642499,
+      "per_class": {
+        "men": {
+          "precision": 0.5251396648044693,
+          "recall": 1.0,
+          "f1": 0.6886446886446886,
+          "support": 94
+        },
+        "women": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 85
+        }
+      },
+      "confusion_matrix": [
+        [
+          94,
+          0
+        ],
+        [
+          85,
+          0
+        ]
+      ]
+    },
+    "age": {
+      "n": 179,
+      "accuracy": 0.48044692737430167,
+      "macro_f1": 0.32452830188679244,
+      "weighted_f1": 0.3118372509750184,
+      "per_class": {
+        "under_18": {
+          "precision": 0.48044692737430167,
+          "recall": 1.0,
+          "f1": 0.6490566037735849,
+          "support": 86
+        },
+        "adult_18_plus": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 93
+        }
+      },
+      "confusion_matrix": [
+        [
+          86,
+          0
+        ],
+        [
+          93,
+          0
+        ]
+      ]
+    }
+  },
+  "group": {
+    "sport": {
+      "n": 66,
+      "accuracy": 0.30303030303030304,
+      "macro_f1": 0.13206214689265536,
+      "weighted_f1": 0.16936312275295326,
+      "per_class": {
+        "basketball": {
+          "precision": 0.18181818181818182,
+          "recall": 0.4,
+          "f1": 0.25,
+          "support": 10
+        },
+        "football": {
+          "precision": 0.37209302325581395,
+          "recall": 1.0,
+          "f1": 0.5423728813559322,
+          "support": 16
+        },
+        "handball": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "table_tennis": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 6
+        },
+        "tennis": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 15
+        },
+        "volleyball": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 11
+        }
+      },
+      "confusion_matrix": [
+        [
+          4,
+          6,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          16,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          5,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          4,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          5,
+          9,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          8,
+          3,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "gender": {
+      "n": 66,
+      "accuracy": 0.5454545454545454,
+      "macro_f1": 0.35294117647058826,
+      "weighted_f1": 0.3850267379679145,
+      "per_class": {
+        "men": {
+          "precision": 0.5454545454545454,
+          "recall": 1.0,
+          "f1": 0.7058823529411765,
+          "support": 36
+        },
+        "women": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 30
+        }
+      },
+      "confusion_matrix": [
+        [
+          36,
+          0
+        ],
+        [
+          30,
+          0
+        ]
+      ]
+    },
+    "age": {
+      "n": 66,
+      "accuracy": 0.4696969696969697,
+      "macro_f1": 0.31958762886597936,
+      "weighted_f1": 0.30021868166198057,
+      "per_class": {
+        "under_18": {
+          "precision": 0.4696969696969697,
+          "recall": 1.0,
+          "f1": 0.6391752577319587,
+          "support": 31
+        },
+        "adult_18_plus": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 35
+        }
+      },
+      "confusion_matrix": [
+        [
+          31,
+          0
+        ],
+        [
+          35,
+          0
+        ]
+      ]
+    },
+    "all_three_accuracy": 0.16666666666666666
+  },
+  "elapsed_sec": 2.7943411279993597,
+  "clips_per_sec": 64.05803436324078
+}

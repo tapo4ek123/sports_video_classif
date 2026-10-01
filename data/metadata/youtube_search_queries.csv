@@ -1,0 +1,10 @@
+query_id,query,required_title,forbidden_title,required_channel,sport_label,candidate_gender,candidate_age,competition_url,limit
+FIBA-U16W-2025,FIBA U16 Women's EuroBasket 2025 Full Basketball Game,FIBA U16 Women's EuroBasket 2025,Div,FIBA Basketball,basketball,female,youth,https://www.fiba.basketball/en/events/fiba-u16-womens-eurobasket-2025,30
+FIBA-U16W-DIVB-2025,FIBA U16 Women's EuroBasket 2025 Div B Full Basketball Game,FIBA U16 Women's EuroBasket 2025 Div,2026,FIBA Basketball,basketball,female,youth,https://www.fiba.basketball/en/events/fiba-u16-womens-eurobasket-2025-division-b,30
+FIBA-U16M-2025,FIBA U16 EuroBasket 2025 Full Basketball Game,FIBA U16 EuroBasket 2025,Women,FIBA Basketball,basketball,male,youth,https://www.fiba.basketball/en/events/fiba-u16-eurobasket-2025,30
+AVC-U16M-2025,2ND ASIAN MEN'S U16 volleyball full match,2ND ASIAN MEN'S U16,2026,Asian Volleyball Confederation,volleyball,male,youth,https://asianvolleyball.net/new/2nd-asian-mens-u16-volleyball-championship/,30
+CEV-U16W-2025,CEV U16 Volleyball European Championship 2025 Women Lithuania,CEV U16 Volleyball European Championship 2025 | Women,2026,Lithuania Volleyball,volleyball,female,youth,https://www.cev.eu/match-centres/cev-u16-volleyball-european-championship-2025/cev-u16-volleyball-european-championship-2025-women/,30
+FIFA-U17W-2025,FIFA U-17 Women's World Cup Morocco 2025 Full Match,FIFA U-17 Women's World Cup Morocco 2025,2026,FIFA,football,female,youth,https://www.fifa.com/en/tournaments/womens/u17womensworldcup/morocco-2025,30
+SCO-UEFA-U17M-2025,Scotland Men's Under-17s UEFA EURO Qualifier full match,Men's Under-17s | UEFA EURO Qualifier,2026,Scotland National Team,football,male,youth,https://www.uefa.com/under17/,30
+TENNIS-EASTER-B14,ZooTennis Easter Bowl B14s final,B14s,,ZooTennis.com,tennis,male,youth,https://easterbowl.com/past-champions/,30
+TENNIS-EASTER-G14,ZooTennis Easter Bowl G14s final,G14s,,ZooTennis.com,tennis,female,youth,https://easterbowl.com/past-champions/,30

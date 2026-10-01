@@ -1,0 +1,25 @@
+{
+  "model": "dinov2_small",
+  "frames": 4,
+  "epochs": 3,
+  "batch_size": 8,
+  "lr": 0.001,
+  "seed": 42,
+  "workers": 0,
+  "freeze": true,
+  "weights": "data/models/dinov2-small",
+  "init_from": "outputs/E3_dinov2_small_frozen_4f/checkpoint.pt",
+  "train_manifest": "data/splits/mixed_train.csv",
+  "val_manifest": "data/splits/mixed_val.csv",
+  "test_manifest": "data/splits/test.csv",
+  "output": "outputs/A3_dinov2_mixed",
+  "dataset": "custom manifests",
+  "split_sha256": {
+    "train": "2b0398392ca7b6c45d2d375ad0d1cbd7365f9322593bc9b33655039d3904533a",
+    "val": "061314f61a0d0bb29bc8d30424770c9119f17271cc4dfe8d3fd7517f81877e90",
+    "test": "0539be657a6bec15fd514065f5c152ec9e104058f1aa80a515a8a4c5540a34b9"
+  },
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "ae1e99fcefd534ed978cdeb8326f08030c96e28b7a81ffcbc98a857c84d14be1",
+  "init_checkpoint_sha256": "e7e8665ecd132e1c4b7520c218e9f3afa78ce80580b6d071128a16472c8425ed"
+}

@@ -1,0 +1,57 @@
+{
+  "manifest": "data/metadata/muvy_sample.csv",
+  "n_videos": 15,
+  "n_source_groups": 15,
+  "sports": {
+    "football": 8,
+    "basketball": 5,
+    "tennis": 2
+  },
+  "models": {
+    "x3d_xs": {
+      "sport": {
+        "n": 15,
+        "accuracy": 0.4666666666666667,
+        "macro_f1_observed_sports": 0.3968253968253968,
+        "confusion_matrix_all_four": [
+          [
+            1,
+            0,
+            0,
+            4
+          ],
+          [
+            0,
+            6,
+            0,
+            2
+          ],
+          [
+            0,
+            0,
+            0,
+            2
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 4.167379588005133,
+        "videos_per_sec": 3.599384141337673,
+        "ms_per_video": 277.82530586700886,
+        "peak_inference_vram_mb": 23.951171875
+      }
+    }
+  }
+}

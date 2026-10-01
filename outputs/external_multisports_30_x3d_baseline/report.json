@@ -1,0 +1,57 @@
+{
+  "manifest": "data/metadata/multisports_sample.csv",
+  "n_videos": 30,
+  "n_source_groups": 30,
+  "sports": {
+    "basketball": 10,
+    "football": 10,
+    "volleyball": 10
+  },
+  "models": {
+    "x3d_xs": {
+      "sport": {
+        "n": 30,
+        "accuracy": 0.6333333333333333,
+        "macro_f1_observed_sports": 0.5402298850574713,
+        "confusion_matrix_all_four": [
+          [
+            0,
+            0,
+            0,
+            10
+          ],
+          [
+            0,
+            10,
+            0,
+            0
+          ],
+          [
+            0,
+            0,
+            0,
+            0
+          ],
+          [
+            1,
+            0,
+            0,
+            9
+          ]
+        ],
+        "sport_order": [
+          "basketball",
+          "football",
+          "tennis",
+          "volleyball"
+        ]
+      },
+      "runtime": {
+        "elapsed_sec": 4.480291820000275,
+        "videos_per_sec": 6.695992405244299,
+        "ms_per_video": 149.34306066667583,
+        "peak_inference_vram_mb": 23.951171875
+      }
+    }
+  }
+}

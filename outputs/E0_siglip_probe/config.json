@@ -1,0 +1,35 @@
+{
+  "model": "data/models/siglip-base-patch16-224",
+  "split": "test",
+  "max_videos": 8,
+  "output": "outputs/E0_siglip_probe",
+  "prompts": {
+    "basketball": [
+      "a photo of a basketball game",
+      "a frame from a basketball match",
+      "people playing basketball"
+    ],
+    "football": [
+      "a photo of a soccer game",
+      "a frame from a football match",
+      "people playing soccer"
+    ],
+    "tennis": [
+      "a photo of a tennis game",
+      "a frame from a tennis match",
+      "people playing tennis"
+    ],
+    "volleyball": [
+      "a photo of a volleyball game",
+      "a frame from a volleyball match",
+      "people playing volleyball"
+    ]
+  },
+  "classes": [
+    "basketball",
+    "football",
+    "tennis",
+    "volleyball"
+  ],
+  "precision": "AMP fp16"
+}

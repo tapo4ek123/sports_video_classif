@@ -1,0 +1,12 @@
+{
+  "model": "dinov2_small",
+  "frames": 4,
+  "resolution": 224,
+  "batch_size": 1,
+  "precision": "AMP fp16",
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "elapsed_sec": 4.603188479999972,
+  "videos_per_sec": 13.251684189129787,
+  "ms_per_video": 75.46210622950773,
+  "peak_inference_vram_mb": 154.68408203125
+}

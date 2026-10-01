@@ -1,0 +1,12 @@
+{
+  "model": "efficientnet_b0",
+  "frames": 1,
+  "resolution": 224,
+  "batch_size": 1,
+  "precision": "AMP fp16",
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "elapsed_sec": 2.6502607649999845,
+  "videos_per_sec": 23.016603047361023,
+  "ms_per_video": 43.44689778688499,
+  "peak_inference_vram_mb": 32.8779296875
+}

@@ -1,0 +1,327 @@
+{
+  "clip": {
+    "sport": {
+      "n": 187,
+      "accuracy": 0.3689839572192513,
+      "macro_f1": 0.19131519274376416,
+      "weighted_f1": 0.2363127069009422,
+      "per_class": {
+        "basketball": {
+          "precision": 0.34285714285714286,
+          "recall": 0.8571428571428571,
+          "f1": 0.4897959183673469,
+          "support": 28
+        },
+        "football": {
+          "precision": 0.44,
+          "recall": 0.88,
+          "f1": 0.5866666666666667,
+          "support": 50
+        },
+        "handball": {
+          "precision": 0.08333333333333333,
+          "recall": 0.0625,
+          "f1": 0.07142857142857142,
+          "support": 16
+        },
+        "table_tennis": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 22
+        },
+        "tennis": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 41
+        },
+        "volleyball": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 30
+        }
+      },
+      "confusion_matrix": [
+        [
+          24,
+          0,
+          2,
+          2,
+          0,
+          0
+        ],
+        [
+          1,
+          44,
+          4,
+          1,
+          0,
+          0
+        ],
+        [
+          8,
+          6,
+          1,
+          1,
+          0,
+          0
+        ],
+        [
+          13,
+          7,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          9,
+          28,
+          3,
+          1,
+          0,
+          0
+        ],
+        [
+          15,
+          15,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "gender": {
+      "n": 187,
+      "accuracy": 0.5347593582887701,
+      "macro_f1": 0.5168532652273334,
+      "weighted_f1": 0.525308920284123,
+      "per_class": {
+        "men": {
+          "precision": 0.5619834710743802,
+          "recall": 0.6666666666666666,
+          "f1": 0.6098654708520179,
+          "support": 102
+        },
+        "women": {
+          "precision": 0.48484848484848486,
+          "recall": 0.3764705882352941,
+          "f1": 0.423841059602649,
+          "support": 85
+        }
+      },
+      "confusion_matrix": [
+        [
+          68,
+          34
+        ],
+        [
+          53,
+          32
+        ]
+      ]
+    },
+    "age": {
+      "n": 187,
+      "accuracy": 0.6577540106951871,
+      "macro_f1": 0.6253443526170799,
+      "weighted_f1": 0.628290685169635,
+      "per_class": {
+        "under_18": {
+          "precision": 0.6095890410958904,
+          "recall": 0.9270833333333334,
+          "f1": 0.7355371900826446,
+          "support": 96
+        },
+        "adult_18_plus": {
+          "precision": 0.8292682926829268,
+          "recall": 0.37362637362637363,
+          "f1": 0.5151515151515151,
+          "support": 91
+        }
+      },
+      "confusion_matrix": [
+        [
+          89,
+          7
+        ],
+        [
+          57,
+          34
+        ]
+      ]
+    }
+  },
+  "group": {
+    "sport": {
+      "n": 67,
+      "accuracy": 0.373134328358209,
+      "macro_f1": 0.17857142857142858,
+      "weighted_f1": 0.21961620469083154,
+      "per_class": {
+        "basketball": {
+          "precision": 0.34615384615384615,
+          "recall": 0.9,
+          "f1": 0.5,
+          "support": 10
+        },
+        "football": {
+          "precision": 0.41025641025641024,
+          "recall": 0.9411764705882353,
+          "f1": 0.5714285714285714,
+          "support": 17
+        },
+        "handball": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 6
+        },
+        "table_tennis": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 8
+        },
+        "tennis": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 15
+        },
+        "volleyball": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0,
+          "support": 11
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          0,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          16,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          4,
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          5,
+          3,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          3,
+          12,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          5,
+          6,
+          0,
+          0,
+          0,
+          0
+        ]
+      ]
+    },
+    "gender": {
+      "n": 67,
+      "accuracy": 0.5074626865671642,
+      "macro_f1": 0.48497554157931516,
+      "weighted_f1": 0.49300666478926125,
+      "per_class": {
+        "men": {
+          "precision": 0.5333333333333333,
+          "recall": 0.6666666666666666,
+          "f1": 0.5925925925925926,
+          "support": 36
+        },
+        "women": {
+          "precision": 0.45454545454545453,
+          "recall": 0.3225806451612903,
+          "f1": 0.37735849056603776,
+          "support": 31
+        }
+      },
+      "confusion_matrix": [
+        [
+          24,
+          12
+        ],
+        [
+          21,
+          10
+        ]
+      ]
+    },
+    "age": {
+      "n": 67,
+      "accuracy": 0.6567164179104478,
+      "macro_f1": 0.6152309612983771,
+      "weighted_f1": 0.617116663871653,
+      "per_class": {
+        "under_18": {
+          "precision": 0.6,
+          "recall": 0.9705882352941176,
+          "f1": 0.7415730337078652,
+          "support": 34
+        },
+        "adult_18_plus": {
+          "precision": 0.9166666666666666,
+          "recall": 0.3333333333333333,
+          "f1": 0.4888888888888889,
+          "support": 33
+        }
+      },
+      "confusion_matrix": [
+        [
+          33,
+          1
+        ],
+        [
+          22,
+          11
+        ]
+      ]
+    },
+    "all_three_accuracy": 0.19402985074626866
+  },
+  "elapsed_sec": 14.239709051005775,
+  "clips_per_sec": 13.132290788398649,
+  "efficiency": {
+    "parameters": 33171402,
+    "checkpoint_mb": 126.61779403686523,
+    "peak_inference_vram_mb": 628.1279296875,
+    "peak_training_vram_mb": 2748.28857421875,
+    "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "frames": 16,
+    "batch_size": 2,
+    "precision": "AMP fp16"
+  }
+}

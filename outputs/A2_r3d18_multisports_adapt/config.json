@@ -1,0 +1,25 @@
+{
+  "model": "r3d_18",
+  "frames": 16,
+  "epochs": 2,
+  "batch_size": 4,
+  "lr": 0.0001,
+  "seed": 42,
+  "workers": 0,
+  "freeze": false,
+  "weights": "data/models/r3d18/r3d_18-b3b3357e.pth",
+  "init_from": "outputs/E5_r3d18_16f/checkpoint.pt",
+  "train_manifest": "data/splits/adapt_train.csv",
+  "val_manifest": "data/splits/adapt_val.csv",
+  "test_manifest": "data/splits/test.csv",
+  "output": "outputs/A2_r3d18_multisports_adapt",
+  "dataset": "custom manifests",
+  "split_sha256": {
+    "train": "246d8bb8f5bf824ab3732c3a32157a2a2cf04bd009cc7bb4bad66553e9555847",
+    "val": "083dc22d73b48521a3c2c943a75c20eea2a9e0625c3806fcb5c0b0a57a21c669",
+    "test": "0539be657a6bec15fd514065f5c152ec9e104058f1aa80a515a8a4c5540a34b9"
+  },
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "b3b3357ead25631ec9c57362ff2128a92d0427e01e2cd184951a44380c3f2e9d",
+  "init_checkpoint_sha256": "19a9721860f3532cf2ea12035cf3a9186eb04364bb9573f1a0806a62cf45a0c3"
+}

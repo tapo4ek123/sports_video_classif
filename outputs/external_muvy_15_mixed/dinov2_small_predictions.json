@@ -1,0 +1,272 @@
+[
+  {
+    "clip_id": "MUVY:basketball:basketball_event_01:vid_OcEh2AC968U",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.6630859375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:basketball:curry_game_winner_vs_okc_2016:vid_zKcUAx83hSk",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.65087890625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:basketball:curry_vs_houston_jan_21_2022:vid_ZYNHmfOMCKA",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.79150390625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:basketball:curry_vs_suns_feb_10_2024:vid_kdX8J4kILo0",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.666015625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:basketball:dagger_vs_warriors_dec_01_2021:vid_LlerFtjpig0",
+    "sport_label": {
+      "true": 0,
+      "pred": 0,
+      "confidence": 0.88037109375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:soccer:soccer_event_01:vid_SJ1tJqU1vfw",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.99951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:soccer:soccer_event_02:vid_zaUZ_ATRb18",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 1.0
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:soccer:soccer_event_03:vid_fubEDFICVIk",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9990234375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:soccer:soccer_event_04:vid_6HVzqZVIiWw",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 1.0
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:soccer:soccer_event_05:vid_SFUtgcvwmNI",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.99951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:soccer:soccer_event_06:vid_gGZHpEc-ZoY",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.9951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:soccer:soccer_event_07:vid_mZ04ya8ngCQ",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.92822265625
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:soccer:soccer_event_08:vid__fkPwtg7ozU",
+    "sport_label": {
+      "true": 1,
+      "pred": 1,
+      "confidence": 0.99951171875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:tennis:tennis_event_01:vid_vnXVmFWk0nc",
+    "sport_label": {
+      "true": 2,
+      "pred": 1,
+      "confidence": 0.9990234375
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  },
+  {
+    "clip_id": "MUVY:tennis:tennis_event_02:vid_6UAPY52TU9g",
+    "sport_label": {
+      "true": 2,
+      "pred": 1,
+      "confidence": 0.99560546875
+    },
+    "gender_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    },
+    "age_category": {
+      "true": null,
+      "pred": null,
+      "confidence": null
+    }
+  }
+]

@@ -1,0 +1,448 @@
+{
+  "test_groups": 61,
+  "bootstrap_replicates": 5000,
+  "summary": {
+    "ResNet-18 1f": {
+      "sport_macro_f1": 0.7316606929510154,
+      "gender_macro_f1": 0.6221846846846847,
+      "age_macro_f1": 0.8518218623481781,
+      "all_three_accuracy": 0.45901639344262296,
+      "best_epoch": 6,
+      "training_seconds": 62.78856019198429,
+      "checkpoint_mb": 42.733455657958984,
+      "peak_training_vram_mb": 389.865234375,
+      "end_to_end_ms_per_clip": 11.488197000289802,
+      "model_ms_median": 10.854926993488334
+    },
+    "DINOv2-S 1f": {
+      "sport_macro_f1": 0.8842592592592592,
+      "gender_macro_f1": 0.66991341991342,
+      "age_macro_f1": 0.7689393939393939,
+      "all_three_accuracy": 0.5245901639344263,
+      "best_epoch": 7,
+      "training_seconds": 28.485343182983343,
+      "checkpoint_mb": 84.24515056610107,
+      "peak_training_vram_mb": 175.34521484375,
+      "end_to_end_ms_per_clip": 28.946534349233843,
+      "model_ms_median": 30.127931502647698
+    },
+    "DINOv2-S 1f weighted": {
+      "sport_macro_f1": 0.865454076367389,
+      "gender_macro_f1": 0.6881894000538068,
+      "age_macro_f1": 0.7848032564450476,
+      "all_three_accuracy": 0.5245901639344263,
+      "best_epoch": 7,
+      "training_seconds": 63.40662694402272,
+      "checkpoint_mb": 84.24515056610107,
+      "peak_training_vram_mb": 175.3466796875,
+      "end_to_end_ms_per_clip": 40.56178306685373,
+      "model_ms_median": 36.60948800097685
+    },
+    "DINOv2-S 4f": {
+      "sport_macro_f1": 0.9295373321742489,
+      "gender_macro_f1": 0.6392473118279569,
+      "age_macro_f1": 0.6885245901639344,
+      "all_three_accuracy": 0.47540983606557374,
+      "best_epoch": 8,
+      "training_seconds": 97.28101177499047,
+      "checkpoint_mb": 84.24515056610107,
+      "peak_training_vram_mb": 247.27880859375,
+      "end_to_end_ms_per_clip": 33.13513141668712,
+      "model_ms_median": 34.97235100076068
+    },
+    "DINOv2-S partial 4f": {
+      "sport_macro_f1": 0.9077586206896552,
+      "gender_macro_f1": 0.6523744911804613,
+      "age_macro_f1": 0.6885245901639344,
+      "all_three_accuracy": 0.4918032786885246,
+      "best_epoch": 5,
+      "training_seconds": 90.08615503099281,
+      "checkpoint_mb": 84.24515056610107,
+      "peak_training_vram_mb": 227.4052734375,
+      "end_to_end_ms_per_clip": 30.38798608322395,
+      "model_ms_median": 34.37584202038124
+    },
+    "X3D-XS 4f": {
+      "sport_macro_f1": 0.8533754208754208,
+      "gender_macro_f1": 0.5451532725766363,
+      "age_macro_f1": 0.7359307359307359,
+      "all_three_accuracy": 0.39344262295081966,
+      "best_epoch": 5,
+      "training_seconds": 129.26883470796747,
+      "checkpoint_mb": 7.976606369018555,
+      "peak_training_vram_mb": 3215.2060546875,
+      "end_to_end_ms_per_clip": 47.4023362500399,
+      "model_ms_median": 53.74571550055407
+    },
+    "X3D-XS shortside 4f": {
+      "sport_macro_f1": 0.8322829131652661,
+      "gender_macro_f1": 0.6655122655122655,
+      "age_macro_f1": 0.8006535947712419,
+      "all_three_accuracy": 0.5081967213114754,
+      "best_epoch": 5,
+      "training_seconds": 155.19425977690844,
+      "checkpoint_mb": 7.976606369018555,
+      "peak_training_vram_mb": 3215.2060546875,
+      "end_to_end_ms_per_clip": 47.75398385099834,
+      "model_ms_median": 50.685851005255245
+    },
+    "R3D-18 16f": {
+      "sport_macro_f1": 0.8235530227416636,
+      "gender_macro_f1": 0.568082788671024,
+      "age_macro_f1": 0.5933333333333333,
+      "all_three_accuracy": 0.3770491803278688,
+      "best_epoch": 5,
+      "training_seconds": 248.14809248701204,
+      "checkpoint_mb": 126.61779403686523,
+      "peak_training_vram_mb": 2748.28857421875,
+      "end_to_end_ms_per_clip": 36.228941949957516,
+      "model_ms_median": 13.269554488942958
+    }
+  },
+  "macro_f1_95pct_intervals": {
+    "ResNet-18 1f": {
+      "sport": [
+        0.6161401728384835,
+        0.8239863878166895
+      ],
+      "gender": [
+        0.4894660894660895,
+        0.7404255319148936
+      ],
+      "age": [
+        0.751696065128901,
+        0.933982683982684
+      ]
+    },
+    "DINOv2-S 1f": {
+      "sport": [
+        0.7952380952380952,
+        0.9524976657329597
+      ],
+      "gender": [
+        0.5395582890690522,
+        0.7848032564450476
+      ],
+      "age": [
+        0.6553393261511014,
+        0.8679653679653679
+      ]
+    },
+    "DINOv2-S 1f weighted": {
+      "sport": [
+        0.7714270451770452,
+        0.9395624477861321
+      ],
+      "gender": [
+        0.5641756854256854,
+        0.801948051948052
+      ],
+      "age": [
+        0.6720430107526881,
+        0.883237626469784
+      ]
+    },
+    "DINOv2-S 4f": {
+      "sport": [
+        0.8421461640211639,
+        0.9858526992511147
+      ],
+      "gender": [
+        0.5114609223971278,
+        0.7540983606557377
+      ],
+      "age": [
+        0.568082788671024,
+        0.801948051948052
+      ]
+    },
+    "DINOv2-S partial 4f": {
+      "sport": [
+        0.8138879462041227,
+        0.9769136019136019
+      ],
+      "gender": [
+        0.5245901639344263,
+        0.7674291938997821
+      ],
+      "age": [
+        0.5673758865248226,
+        0.801948051948052
+      ]
+    },
+    "X3D-XS 4f": {
+      "sport": [
+        0.7616184251478368,
+        0.9278357953058103
+      ],
+      "gender": [
+        0.4161881323489199,
+        0.6655683586565931
+      ],
+      "age": [
+        0.6213225371120108,
+        0.8360215053763441
+      ]
+    },
+    "X3D-XS shortside 4f": {
+      "sport": [
+        0.7146682486996888,
+        0.9169345238095238
+      ],
+      "gender": [
+        0.5392446633825945,
+        0.7821428571428571
+      ],
+      "age": [
+        0.6950000000000001,
+        0.8969594594594594
+      ]
+    },
+    "R3D-18 16f": {
+      "sport": [
+        0.7080734200381575,
+        0.9117827315872981
+      ],
+      "gender": [
+        0.4351851851851852,
+        0.6881894000538068
+      ],
+      "age": [
+        0.46373626373626375,
+        0.7136150234741784
+      ]
+    }
+  },
+  "paired_comparisons": {
+    "DINOv2-S 4f minus ResNet-18 1f": {
+      "sport": {
+        "difference": 0.1978766392232335,
+        "paired_bootstrap_95pct": [
+          0.0726525922865675,
+          0.3241509208044913
+        ]
+      },
+      "gender": {
+        "difference": 0.017062627143272224,
+        "paired_bootstrap_95pct": [
+          -0.13676223646638044,
+          0.17052420101918533
+        ]
+      },
+      "age": {
+        "difference": -0.16329727218424372,
+        "paired_bootstrap_95pct": [
+          -0.2786714593801799,
+          -0.05031882591093129
+        ]
+      }
+    },
+    "DINOv2-S 4f minus DINOv2-S 1f": {
+      "sport": {
+        "difference": 0.04527807291498975,
+        "paired_bootstrap_95pct": [
+          -0.02248363612508357,
+          0.12316873842088379
+        ]
+      },
+      "gender": {
+        "difference": -0.030666108085463106,
+        "paired_bootstrap_95pct": [
+          -0.12725171632923277,
+          0.06949428225047911
+        ]
+      },
+      "age": {
+        "difference": -0.08041480377545951,
+        "paired_bootstrap_95pct": [
+          -0.1547656735887989,
+          -0.01634056054997357
+        ]
+      }
+    },
+    "DINOv2-S 4f minus DINOv2-S 1f weighted": {
+      "sport": {
+        "difference": 0.06408325580685992,
+        "paired_bootstrap_95pct": [
+          -0.009680284992785075,
+          0.14942398523224162
+        ]
+      },
+      "gender": {
+        "difference": -0.04894208822584989,
+        "paired_bootstrap_95pct": [
+          -0.1523233863906708,
+          0.06323020939555067
+        ]
+      },
+      "age": {
+        "difference": -0.09627866628111315,
+        "paired_bootstrap_95pct": [
+          -0.17592194752923196,
+          -0.031536481997390564
+        ]
+      }
+    },
+    "DINOv2-S 4f minus DINOv2-S partial 4f": {
+      "sport": {
+        "difference": 0.02177871148459376,
+        "paired_bootstrap_95pct": [
+          0.0,
+          0.07723611111111088
+        ]
+      },
+      "gender": {
+        "difference": -0.013127179352504403,
+        "paired_bootstrap_95pct": [
+          -0.13223594307699443,
+          0.11072693422296725
+        ]
+      },
+      "age": {
+        "difference": 0.0,
+        "paired_bootstrap_95pct": [
+          -0.048915618735192234,
+          0.04737249394874354
+        ]
+      }
+    },
+    "DINOv2-S 4f minus X3D-XS 4f": {
+      "sport": {
+        "difference": 0.0761619112988281,
+        "paired_bootstrap_95pct": [
+          -0.0006472724156423798,
+          0.16069613379882258
+        ]
+      },
+      "gender": {
+        "difference": 0.09409403925132065,
+        "paired_bootstrap_95pct": [
+          -0.059061884646218935,
+          0.24541014842366607
+        ]
+      },
+      "age": {
+        "difference": -0.047406145766801466,
+        "paired_bootstrap_95pct": [
+          -0.15470533232866432,
+          0.05468478889531525
+        ]
+      }
+    },
+    "DINOv2-S 4f minus X3D-XS shortside 4f": {
+      "sport": {
+        "difference": 0.0972544190089828,
+        "paired_bootstrap_95pct": [
+          -0.022041234372796262,
+          0.22749467947038285
+        ]
+      },
+      "gender": {
+        "difference": -0.02626495368430859,
+        "paired_bootstrap_95pct": [
+          -0.19109555278918622,
+          0.13875859044076147
+        ]
+      },
+      "age": {
+        "difference": -0.11212900460730746,
+        "paired_bootstrap_95pct": [
+          -0.23176503974680432,
+          0.003246225687907879
+        ]
+      }
+    },
+    "DINOv2-S 4f minus R3D-18 16f": {
+      "sport": {
+        "difference": 0.1059843094325853,
+        "paired_bootstrap_95pct": [
+          0.0104175960939456,
+          0.2123533714576429
+        ]
+      },
+      "gender": {
+        "difference": 0.07116452315693289,
+        "paired_bootstrap_95pct": [
+          -0.06855685309314338,
+          0.2166640630293728
+        ]
+      },
+      "age": {
+        "difference": 0.09519125683060115,
+        "paired_bootstrap_95pct": [
+          -0.023427986024342717,
+          0.22027047980015502
+        ]
+      }
+    },
+    "DINOv2-S 1f minus ResNet-18 1f": {
+      "sport": {
+        "difference": 0.15259856630824375,
+        "paired_bootstrap_95pct": [
+          0.042727573731575166,
+          0.2681592625455218
+        ]
+      },
+      "gender": {
+        "difference": 0.04772873522873533,
+        "paired_bootstrap_95pct": [
+          -0.09388997566391571,
+          0.1912855751470982
+        ]
+      },
+      "age": {
+        "difference": -0.08288246840878422,
+        "paired_bootstrap_95pct": [
+          -0.18950365180619597,
+          0.018111057615150083
+        ]
+      }
+    },
+    "DINOv2-S 1f weighted minus DINOv2-S 1f": {
+      "sport": {
+        "difference": -0.018805182891870165,
+        "paired_bootstrap_95pct": [
+          -0.06521784877763134,
+          0.0
+        ]
+      },
+      "gender": {
+        "difference": 0.018275980140386783,
+        "paired_bootstrap_95pct": [
+          -0.033574340288644484,
+          0.07879730204603991
+        ]
+      },
+      "age": {
+        "difference": 0.015863862505653636,
+        "paired_bootstrap_95pct": [
+          0.0,
+          0.050135634456232585
+        ]
+      }
+    },
+    "X3D-XS shortside 4f minus DINOv2-S 1f": {
+      "sport": {
+        "difference": -0.05197634609399304,
+        "paired_bootstrap_95pct": [
+          -0.16605404273453472,
+          0.05083779427449516
+        ]
+      },
+      "gender": {
+        "difference": -0.004401154401154517,
+        "paired_bootstrap_95pct": [
+          -0.15450338721436627,
+          0.14759862494263495
+        ]
+      },
+      "age": {
+        "difference": 0.03171420083184795,
+        "paired_bootstrap_95pct": [
+          -0.07880413367017683,
+          0.14740403203534935
+        ]
+      }
+    }
+  }
+}

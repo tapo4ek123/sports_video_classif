@@ -1,0 +1,12 @@
+{
+  "model": "r3d_18",
+  "frames": 16,
+  "resolution": 112,
+  "batch_size": 1,
+  "precision": "AMP fp16",
+  "hardware": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "elapsed_sec": 12.183979541000099,
+  "videos_per_sec": 5.006574395067716,
+  "ms_per_video": 199.73736952459177,
+  "peak_inference_vram_mb": 220.70849609375
+}

@@ -1,0 +1,22 @@
+{
+  "model": "tf_efficientnet_b4",
+  "frames": 4,
+  "epochs": 2,
+  "batch_size": 2,
+  "lr": 0.0002,
+  "seed": 42,
+  "workers": 0,
+  "freeze": false,
+  "weights": "data/models/timm/tf_efficientnet_b4.ns_jft_in1k.safetensors",
+  "output": "outputs/E2_efficientnet_b4_4f",
+  "dataset": "UCF101 mirror first shard",
+  "dataset_revision": "057753e5d0709d3f5b8104a803b91a420a069103",
+  "manifest_sha256": "0b45a02aeb54f6ad24d1dbdda600385f937f1ea022bed53387c4f9fa7524391d",
+  "split_sha256": {
+    "train": "f91636cdda3cac0320ad7004e53b217e30ddd6916197456ab12eff9afef2f4ec",
+    "val": "dbdcceec7dd3b49d594b8e5f12e216733978e2f058247074c4fbd97b213fc150",
+    "test": "0539be657a6bec15fd514065f5c152ec9e104058f1aa80a515a8a4c5540a34b9"
+  },
+  "torch_version": "2.6.0+cu124",
+  "pretrained_checkpoint_sha256": "ede54280eab358dcd49d71f4dcabcedf14a0ac33267bac772b66110cbe168f79"
+}
